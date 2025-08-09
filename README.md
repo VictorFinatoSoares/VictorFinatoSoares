@@ -48,6 +48,6 @@ Me chamo Victor Finato, tenho 14 anos e sou natural do Rio Grande do Sul. Atualm
 <br/>
 <br/>
 
-## 📊 Estatísticas
+## 📊 Estatísticas 
 
-![Victor Finato GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorFinatoSoares&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+![Victor Finato GitHub Stats](https://github-readme-stats-waf1.vercel.app/api?username=VictorFinatoSoares&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
