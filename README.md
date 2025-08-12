@@ -54,7 +54,7 @@ Me chamo Victor Finato, tenho 14 anos e sou natural do Rio Grande do Sul. Atualm
 ## 😎 Outros conhecimentos
   <img align="center" alt ="Photoshop" height = "50" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
   <img align="center" alt ="Wondershare Filmora" height = "60" width = "60" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/e9/f4/5ae9f42d-3f23-4cfa-3e8f-4d941b47a78c/filmora.png/1200x630bb.png" />
-  <img align="center" alt ="Powerpoint" height = "45" width = "45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" />
+  <img align="center" alt ="Powerpoint" height = "50" width = "50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" />
 
   <img align="center" alt ="Notion" height = "45" width = "60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
   <img align="center" alt ="Trello" height = "45" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
