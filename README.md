@@ -126,7 +126,6 @@
 ```
 
 ![App](https://img.shields.io/badge/App-020509?style=flat-square&logo=android&logoColor=00f5ff)
-![IA](https://img.shields.io/badge/I.A.-020509?style=flat-square&logo=openai&logoColor=ff003c)
 
 </td>
 </tr>
