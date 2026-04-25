@@ -1,37 +1,36 @@
 <svg width="560" height="320" viewBox="0 0 560 320" xmlns="http://www.w3.org/2000/svg" xml:space="preserve">
   <defs>
-    <!-- Gradient border: red → purple → cyan -->
+    <!-- Gradient border -->
     <linearGradient id="border" x1="0" y1="0" x2="560" y2="320" gradientUnits="userSpaceOnUse">
-      <stop offset="0%"   stop-color="#ff003c"/>
-      <stop offset="48%"  stop-color="#7b00ff"/>
+      <stop offset="0%" stop-color="#ff003c"/>
+      <stop offset="48%" stop-color="#7b00ff"/>
       <stop offset="100%" stop-color="#00f5ff"/>
     </linearGradient>
 
-    <!-- Glow for red elements -->
+    <!-- Glow red -->
     <filter id="glowR" x="-40%" y="-40%" width="180%" height="180%">
       <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
 
-    <!-- Glow for cyan elements -->
+    <!-- Glow cyan -->
     <filter id="glowC" x="-40%" y="-40%" width="180%" height="180%">
       <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
 
-    <!-- Subtle ambient glow on border -->
+    <!-- Border glow -->
     <filter id="outerGlow" x="-5%" y="-5%" width="110%" height="110%">
       <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
 
-  <!-- Outer neon glow border (bloomed) -->
+  <!-- Border -->
   <rect x="1" y="1" width="558" height="318" rx="13" fill="none"
         stroke="url(#border)" stroke-width="4" opacity="0.25"
         filter="url(#outerGlow)"/>
 
-  <!-- Crisp border line -->
   <rect x="1" y="1" width="558" height="318" rx="13" fill="none"
         stroke="url(#border)" stroke-width="1.5"/>
 
@@ -47,130 +46,83 @@
   <circle cx="44" cy="20" r="5.5" fill="#f59e0b" opacity="0.8"/>
   <circle cx="64" cy="20" r="5.5" fill="#10b981" opacity="0.8"/>
 
-  <!-- File name in titlebar -->
-  <text x="280" y="24.5" font-family="'Courier New', Courier, monospace"
-        font-size="11" fill="#1e3d56" text-anchor="middle" letter-spacing="2.5">victor_finato.py</text>
+  <!-- File name -->
+  <text x="280" y="24.5" font-family="'Courier New', monospace"
+        font-size="11" fill="#1e3d56" text-anchor="middle" letter-spacing="2.5">
+        victor_finato.py
+  </text>
 
-  <!-- Divider under title bar -->
-  <line x1="2" y1="39" x2="558" y2="39" stroke="url(#border)" stroke-width="0.8" opacity="0.55"/>
+  <!-- Divider -->
+  <line x1="2" y1="39" x2="558" y2="39"
+        stroke="url(#border)" stroke-width="0.8" opacity="0.55"/>
 
-  <!-- Line number gutter background -->
+  <!-- Gutter -->
   <rect x="2" y="39" width="36" height="279" fill="#020b15"/>
-  <!-- Gutter right border -->
-  <line x1="38" y1="39" x2="38" y2="317" stroke="#0a1e30" stroke-width="1"/>
+  <line x1="38" y1="39" x2="38" y2="317" stroke="#0a1e30"/>
 
-  <!-- Line numbers -->
-  <text font-family="'Courier New', Courier, monospace" font-size="11" fill="#19364f" text-anchor="end">
-    <tspan x="30" y="61"> 1</tspan>
-    <tspan x="30" y="81"> 2</tspan>
-    <tspan x="30" y="101"> 3</tspan>
-    <tspan x="30" y="121"> 4</tspan>
-    <tspan x="30" y="141"> 5</tspan>
-    <tspan x="30" y="161"> 6</tspan>
-    <tspan x="30" y="181"> 7</tspan>
-    <tspan x="30" y="201"> 8</tspan>
-    <tspan x="30" y="221"> 9</tspan>
-    <tspan x="30" y="241">10</tspan>
-    <tspan x="30" y="261">11</tspan>
-    <tspan x="30" y="281">12</tspan>
+
+
+  <!-- CODE -->
+
+  <!-- L1 -->
+  <text x="48" y="61" font-family="'Courier New', monospace" font-size="13.5">
+    <tspan fill="#ff003c">class </tspan>
+    <tspan fill="#00f5ff">VictorFinato</tspan>
+    <tspan fill="#7a8fa0">:</tspan>
   </text>
 
-  <!-- =============================== -->
-  <!--         CODE LINES              -->
-  <!-- =============================== -->
-
-  <!-- L1: class VictorFinato: -->
-  <!-- Glow layer -->
-  <text x="48" y="61" font-family="'Courier New', Courier, monospace" font-size="13.5" opacity="0.55">
-    <tspan fill="#ff003c" filter="url(#glowR)">class </tspan><tspan fill="#00f5ff" filter="url(#glowC)">VictorFinato</tspan><tspan fill="#8899aa">:</tspan>
-  </text>
-  <!-- Crisp layer -->
-  <text x="48" y="61" font-family="'Courier New', Courier, monospace" font-size="13.5">
-    <tspan fill="#ff003c">class </tspan><tspan fill="#00f5ff">VictorFinato</tspan><tspan fill="#7a8fa0">:</tspan>
+  <!-- L3 -->
+  <text x="48" y="101" font-family="'Courier New', monospace"
+        font-size="13.5" fill="#2b5070">
+    # Téc. em ADS · Desenvolvedor · 2026
   </text>
 
-  <!-- L2: (blank) -->
-
-  <!-- L3: comment 1 -->
-  <text x="48" y="101" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#2b5070">
-    <tspan>  # Desenvolvedor apaixonado · Game Dev · I.A.</tspan>
+  <!-- L4 -->
+  <text x="48" y="121" font-family="'Courier New', monospace"
+        font-size="13.5" fill="#2b5070">
+    # Do papel à realidade — linha por linha.
   </text>
 
-  <!-- L4: comment 2 -->
-  <text x="48" y="121" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#2b5070">
-    <tspan>  # Do conceito ao produto — linha por linha.</tspan>
+  <!-- L6 -->
+  <text x="48" y="161" font-family="'Courier New', monospace" font-size="13.5">
+    <tspan fill="#cdd6f4">linguagens</tspan>
+    <tspan fill="#7a8fa0"> = ["HTML", "CSS", "JavaScript", "Python",</tspan>
   </text>
 
-  <!-- L5: (blank) -->
-
-  <!-- L6: linguagens -->
-  <text x="48" y="161" font-family="'Courier New', Courier, monospace" font-size="13.5">
-    <tspan fill="#cdd6f4">  linguagens</tspan>
-    <tspan fill="#7a8fa0"> = [</tspan>
-    <tspan fill="#00c4df">"Python"</tspan>
-    <tspan fill="#7a8fa0">, </tspan>
-    <tspan fill="#00c4df">"JS"</tspan>
-    <tspan fill="#7a8fa0">, </tspan>
-    <tspan fill="#00c4df">"GDScript"</tspan>
-    <tspan fill="#7a8fa0">]</tspan>
+  <text x="48" y="181" font-family="'Courier New', monospace" font-size="13.5">
+    <tspan fill="#7a8fa0">             "GDScript", "Java"]</tspan>
   </text>
 
-  <!-- L7: engine -->
-  <text x="48" y="181" font-family="'Courier New', Courier, monospace" font-size="13.5">
-    <tspan fill="#cdd6f4">  engine</tspan>
+  <!-- L7 -->
+  <text x="48" y="201" font-family="'Courier New', monospace" font-size="13.5">
+    <tspan fill="#cdd6f4">engine</tspan>
     <tspan fill="#7a8fa0"> = </tspan>
     <tspan fill="#00c4df">"Godot Engine 2D"</tspan>
   </text>
 
-  <!-- L8: origem -->
-  <text x="48" y="201" font-family="'Courier New', Courier, monospace" font-size="13.5">
-    <tspan fill="#cdd6f4">  origem</tspan>
+  <!-- L8 -->
+  <text x="48" y="221" font-family="'Courier New', monospace" font-size="13.5">
+    <tspan fill="#cdd6f4">origem</tspan>
     <tspan fill="#7a8fa0"> = </tspan>
     <tspan fill="#00c4df">"Sapucaia do Sul, RS — Brasil"</tspan>
   </text>
 
-  <!-- L9: objetivo -->
-  <text x="48" y="221" font-family="'Courier New', Courier, monospace" font-size="13.5">
-    <tspan fill="#cdd6f4">  objetivo</tspan>
-    <tspan fill="#7a8fa0"> = </tspan>
-    <tspan fill="#00c4df">"Steam · Play Store · Além"</tspan>
-  </text>
 
-  <!-- L10: (blank) -->
-
-  <!-- L11: def missão — glow layer -->
-  <text x="48" y="261" font-family="'Courier New', Courier, monospace" font-size="13.5" opacity="0.5">
-    <tspan fill="#ff003c" filter="url(#glowR)">  def </tspan>
-    <tspan fill="#00f5ff" filter="url(#glowC)">missão</tspan>
-    <tspan fill="#7a8fa0">(</tspan>
-    <tspan fill="#e08060">self</tspan>
-    <tspan fill="#7a8fa0">) -&gt; </tspan>
-    <tspan fill="#7dd3fc">str</tspan>
-    <tspan fill="#7a8fa0">:</tspan>
-  </text>
-  <!-- L11: def missão — crisp layer -->
-  <text x="48" y="261" font-family="'Courier New', Courier, monospace" font-size="13.5">
-    <tspan fill="#ff003c">  def </tspan>
+  <!-- L11 -->
+  <text x="48" y="281" font-family="'Courier New', monospace" font-size="13.5">
+    <tspan fill="#ff003c">def </tspan>
     <tspan fill="#00f5ff">missão</tspan>
-    <tspan fill="#7a8fa0">(</tspan>
-    <tspan fill="#e08060">self</tspan>
-    <tspan fill="#7a8fa0">) -&gt; </tspan>
-    <tspan fill="#7dd3fc">str</tspan>
-    <tspan fill="#7a8fa0">:</tspan>
+    <tspan fill="#7a8fa0">(self) -> str:</tspan>
   </text>
 
-  <!-- L12: return — glow layer -->
-  <text x="48" y="281" font-family="'Courier New', Courier, monospace" font-size="13.5" opacity="0.5">
-    <tspan fill="#ff003c" filter="url(#glowR)">    return </tspan>
-    <tspan fill="#00f5ff" filter="url(#glowC)">"Transformar ideias em realidade."</tspan>
-  </text>
-  <!-- L12: return — crisp layer -->
-  <text x="48" y="281" font-family="'Courier New', Courier, monospace" font-size="13.5">
+  <!-- L12 -->
+  <text x="48" y="301" font-family="'Courier New', monospace" font-size="13.5">
     <tspan fill="#ff003c">    return </tspan>
     <tspan fill="#00f5ff">"Transformar ideias em realidade."</tspan>
   </text>
 
-  <!-- Cursor blinking indicator (static) at end of last line -->
-  <rect x="412" y="268" width="7" height="14" fill="#00f5ff" opacity="0.7" rx="1"/>
+  <!-- Cursor -->
+  <rect x="415" y="289" width="7" height="14"
+        fill="#00f5ff" opacity="0.7" rx="1"/>
 
 </svg>
