@@ -148,11 +148,11 @@
 
 <div align="left">
 
-<img src="https://github-readme-stats-two-kappa-47.vercel.app/api/top-langs/?username=victorfinatosoares&layout=compact&count_private=true&langs_count=8&bg_color=020509&border_color=00f5ff&title_color=ffffff&text_color=a8d8e8" width="335"/>&nbsp;<img src="https://github-readme-stats-two-kappa-47.vercel.app/api?username=victorfinatosoares&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&bg_color=020509&border_color=00f5ff&icon_color=00f5ff&title_color=ffffff&text_color=a8d8e8&rank_icon=github&hide_border=false" width="390"/>
+<img src="./.github/stats/stats-langs.svg" width="335"/>&nbsp;<img src="./.github/stats/stats-general.svg" width="390"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=victorfinatosoares&theme=transparent&background=020509&border=00f5ff&stroke=00f5ff&ring=ff003c&fire=ff003c&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f5ff&sideLabels=a8d8e8&dates=a8d8e8" width="735"/>
+<img src="./.github/stats/stats-streak.svg" width="735"/>
 
 </div>
 
