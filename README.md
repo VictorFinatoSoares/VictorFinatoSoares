@@ -135,10 +135,13 @@ Check out my other repositories to see what I'm currently building:
 
 <br>
 
-<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+<img src="./generated/languages.svg" />
+
+<br>
+
 <img src="./profile-summary-card-output/github_dark/3-stats.svg" />
+
 </div>
----
 
 ## 🎯 Goals
 
