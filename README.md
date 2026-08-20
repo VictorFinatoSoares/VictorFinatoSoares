@@ -127,17 +127,17 @@ Check out my other repositories to see what I'm currently building:
 👉 **[github.com/VictorFinatoSoares](https://github.com/VictorFinatoSoares)**
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorFinatoSoares&theme=github_dark" height="180em" />
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorFinatoSoares&theme=github_dark" height="180em" />
+<br>
 
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" />
 </div>
-
 ---
 
 ## 🎯 Goals
