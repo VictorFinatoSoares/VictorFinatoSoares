@@ -1,8 +1,8 @@
 <svg
 xmlns="http://www.w3.org/2000/svg"
 width="600"
-height="328"
-viewBox="0 0 600 328"
+height="404"
+viewBox="0 0 600 404"
 >
 
 <style>
@@ -59,7 +59,7 @@ x="28"
 y="75"
 class="language"
 >
-Java
+TypeScript
 </text>
 
 <text
@@ -67,7 +67,7 @@ x="570"
 y="75"
 class="percentage"
 >
-36.0%
+58.1%
 </text>
 
 <rect
@@ -82,7 +82,7 @@ class="bar-bg"
 <rect
 x="180"
 y="63"
-width="107.92"
+width="174.29"
 height="8"
 rx="4"
 class="bar"
@@ -93,7 +93,7 @@ x="28"
 y="113"
 class="language"
 >
-TypeScript
+Java
 </text>
 
 <text
@@ -101,7 +101,7 @@ x="570"
 y="113"
 class="percentage"
 >
-28.3%
+20.7%
 </text>
 
 <rect
@@ -116,7 +116,7 @@ class="bar-bg"
 <rect
 x="180"
 y="101"
-width="85.05"
+width="62.10"
 height="8"
 rx="4"
 class="bar"
@@ -135,7 +135,7 @@ x="570"
 y="151"
 class="percentage"
 >
-11.9%
+6.9%
 </text>
 
 <rect
@@ -150,7 +150,7 @@ class="bar-bg"
 <rect
 x="180"
 y="139"
-width="35.80"
+width="20.79"
 height="8"
 rx="4"
 class="bar"
@@ -169,7 +169,7 @@ x="570"
 y="189"
 class="percentage"
 >
-10.3%
+5.9%
 </text>
 
 <rect
@@ -184,7 +184,7 @@ class="bar-bg"
 <rect
 x="180"
 y="177"
-width="30.91"
+width="17.79"
 height="8"
 rx="4"
 class="bar"
@@ -203,7 +203,7 @@ x="570"
 y="227"
 class="percentage"
 >
-9.3%
+5.6%
 </text>
 
 <rect
@@ -218,7 +218,7 @@ class="bar-bg"
 <rect
 x="180"
 y="215"
-width="28.00"
+width="16.95"
 height="8"
 rx="4"
 class="bar"
@@ -237,7 +237,7 @@ x="570"
 y="265"
 class="percentage"
 >
-4.1%
+2.5%
 </text>
 
 <rect
@@ -252,7 +252,75 @@ class="bar-bg"
 <rect
 x="180"
 y="253"
-width="12.33"
+width="7.41"
+height="8"
+rx="4"
+class="bar"
+/>
+
+<text
+x="28"
+y="303"
+class="language"
+>
+PowerShell
+</text>
+
+<text
+x="570"
+y="303"
+class="percentage"
+>
+0.2%
+</text>
+
+<rect
+x="180"
+y="291"
+width="300"
+height="8"
+rx="4"
+class="bar-bg"
+/>
+
+<rect
+x="180"
+y="291"
+width="0.45"
+height="8"
+rx="4"
+class="bar"
+/>
+
+<text
+x="28"
+y="341"
+class="language"
+>
+Dockerfile
+</text>
+
+<text
+x="570"
+y="341"
+class="percentage"
+>
+0.1%
+</text>
+
+<rect
+x="180"
+y="329"
+width="300"
+height="8"
+rx="4"
+class="bar-bg"
+/>
+
+<rect
+x="180"
+y="329"
+width="0.22"
 height="8"
 rx="4"
 class="bar"
