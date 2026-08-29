@@ -118,15 +118,11 @@ Through this project, I practiced concepts such as:
 * Deploying a web application
 
 🌐 **Live Project:**
-[finato-github-search.netlify.app](https://finato-github-search.netlify.app)
+[finato-github-search.vercel.app](https://finato-github-search.vercel.app)
 
 ---
 
-Check out my other repositories to see what I'm currently building:
 
-👉 **[github.com/VictorFinatoSoares](https://github.com/VictorFinatoSoares)**
-
----
 ## 📊 GitHub Stats
 
 <div align="center">
