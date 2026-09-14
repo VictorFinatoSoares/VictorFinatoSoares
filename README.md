@@ -22,7 +22,7 @@ I enjoy understanding how things work — not just making them work.
 ## 🌐 Where to find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-VictorFinatoSoares-181717?style=for-the-badge\&logo=github)](https://github.com/VictorFinatoSoares)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-VictorFinatoSoares-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-finato-746347380/)
 ---
 
 ## 🎓 Education
