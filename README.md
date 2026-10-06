@@ -2,36 +2,33 @@
 
 # Victor Finato Soares
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&duration=3000\&pause=900\&color=58A6FF\&center=true\&vCenter=true\&width=750\&lines=Full-Stack+Developer+in+training;Learning.+Building.+Improving.;Turning+ideas+into+real+projects)](https://git.io/typing-svg)
-
-🚀 Full-Stack Developer in training
-🇧🇷 Brazil
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&duration=3000\&pause=900\&color=58A6FF\&center=true\&vCenter=true\&width=750\&lines=Full-Stack+Developer+in+training;Learning.+Building.+Improving.;Turning+ideas+into+real+projects;)](https://git.io/typing-svg)
 
 </div>
 
 I'm a student and developer focused on building a strong foundation in software development and turning ideas into real projects.
 
-I'm currently studying **Systems Development** at **IFSul — Campus Sapucaia do Sul**, in an integrated technical program alongside high school.
+I'm currently studying **Systems Development** at **IFSul Campus Sapucaia do Sul**, in an integrated technical program alongside high school.
 
 My main focus is **Full-Stack Development**, exploring both frontend and backend technologies while continuously improving my knowledge of software architecture, APIs, databases and modern development practices.
 
-I enjoy understanding how things work — not just making them work.
+I enjoy understanding how things work not just making them work.
 
 ---
 
-## 🌐 Where to find me
+## Where to find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-VictorFinatoSoares-181717?style=for-the-badge\&logo=github)](https://github.com/VictorFinatoSoares)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-VictorFinatoSoares-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-finato-746347380/)
 ---
 
-## 🎓 Education
+## Education
 
 ### Instituto Federal Sul-rio-grandense — IFSul
 
 **Campus Sapucaia do Sul**
 
-🎓 **Integrated Technical Program in Systems Development**
+  **Integrated Technical Program in Systems Development**
 
 My education combines high school studies with technical subjects related to programming, software development and computing.
 
@@ -47,18 +44,18 @@ Through the course and my own studies, I'm developing knowledge in areas such as
 
 ---
 
-## 🧠 What I'm focused on
+## What I'm focused on
 
-* 💻 Full-Stack Development
-* 🌐 Building modern web applications
-* ⚙️ Backend development and APIs
-* 🧩 Software architecture and clean code
-* 📱 Exploring mobile development
-* 📚 Constantly learning new technologies
+* Full-Stack Development
+* Building modern web applications
+* Backend development and APIs
+* Software architecture and clean code
+* Exploring mobile development
+* Constantly learning new technologies
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -81,7 +78,7 @@ Through the course and my own studies, I'm developing knowledge in areas such as
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 I'm currently improving my knowledge of:
 
@@ -94,13 +91,13 @@ I'm currently improving my knowledge of:
 
 ---
 
-## 🚀 Projects
+## Projects
 
 I use my projects as a way to transform what I study into practical experience.
 
 My goal isn't just to follow tutorials — it's to understand the technologies I use and gradually build more complete, useful and well-structured applications.
 
-### 🔎 Finato GitHub Search
+### Finato GitHub Search
 
 One of my projects is **Finato GitHub Search**, a web application I built while learning **React**.
 
@@ -117,13 +114,13 @@ Through this project, I practiced concepts such as:
 * Component organization
 * Deploying a web application
 
-🌐 **Live Project:**
+  **Live Project:**
 [finato-github-search.vercel.app](https://finato-github-search.vercel.app)
 
 ---
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -139,7 +136,7 @@ Through this project, I practiced concepts such as:
 
 </div>
 
-## 🎯 Goals
+##  Goals
 
 My current goal is to become a solid **Full-Stack Developer**, gaining experience building real applications and understanding the entire development process.
 
@@ -147,11 +144,4 @@ In the long term, I want to use that experience to build products and solutions 
 
 ---
 
-## 💭 Philosophy
-
-> "Learning how to code is not just about learning syntax.
-> It's about learning how to think, solve problems and turn ideas into reality."
-
----
-
-⭐ Feel free to explore my repositories and follow my development journey.
+  Feel free to explore my repositories and follow my development journey.
