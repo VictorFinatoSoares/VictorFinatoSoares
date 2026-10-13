@@ -67,7 +67,7 @@ x="570"
 y="75"
 class="percentage"
 >
-58.9%
+58.7%
 </text>
 
 <rect
@@ -82,7 +82,7 @@ class="bar-bg"
 <rect
 x="180"
 y="63"
-width="176.63"
+width="176.25"
 height="8"
 rx="4"
 class="bar"
@@ -101,7 +101,7 @@ x="570"
 y="113"
 class="percentage"
 >
-21.4%
+21.6%
 </text>
 
 <rect
@@ -116,7 +116,7 @@ class="bar-bg"
 <rect
 x="180"
 y="101"
-width="64.26"
+width="64.76"
 height="8"
 rx="4"
 class="bar"
@@ -135,7 +135,7 @@ x="570"
 y="151"
 class="percentage"
 >
-9.8%
+9.7%
 </text>
 
 <rect
@@ -150,7 +150,7 @@ class="bar-bg"
 <rect
 x="180"
 y="139"
-width="29.26"
+width="29.19"
 height="8"
 rx="4"
 class="bar"
@@ -184,7 +184,7 @@ class="bar-bg"
 <rect
 x="180"
 y="177"
-width="11.61"
+width="11.59"
 height="8"
 rx="4"
 class="bar"
@@ -218,7 +218,7 @@ class="bar-bg"
 <rect
 x="180"
 y="215"
-width="11.41"
+width="11.39"
 height="8"
 rx="4"
 class="bar"
@@ -252,7 +252,7 @@ class="bar-bg"
 <rect
 x="180"
 y="253"
-width="5.55"
+width="5.53"
 height="8"
 rx="4"
 class="bar"
