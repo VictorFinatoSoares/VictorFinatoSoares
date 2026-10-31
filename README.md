@@ -84,6 +84,7 @@ I'm currently improving my knowledge of:
 
 * Java
 * TypeScript
+* Python
 * React
 * Backend development
 * Software architecture
