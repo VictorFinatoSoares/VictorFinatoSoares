@@ -86,6 +86,7 @@ I'm currently improving my knowledge of:
 * TypeScript
 * Python
 * React
+* Data Bases
 * Backend development
 * Software architecture
 * Full-Stack application development
