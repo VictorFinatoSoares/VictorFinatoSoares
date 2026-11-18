@@ -138,6 +138,10 @@ Through this project, I practiced concepts such as:
 
 </div>
 
+##  Hobbies
+
+In my free time, I enjoy developing games—mostly 2D ones—using the Godot Engine. I do this as a way to keep honing my skills while having fun with the results.
+
 ##  Goals
 
 My current goal is to become a solid **Full-Stack Developer**, gaining experience building real applications and understanding the entire development process.
